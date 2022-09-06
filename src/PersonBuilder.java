@@ -6,7 +6,6 @@ public class PersonBuilder {
     private String city;
     Person person;
 
-
     public PersonBuilder setName(String name) {
         this.name = name;
         return this;
